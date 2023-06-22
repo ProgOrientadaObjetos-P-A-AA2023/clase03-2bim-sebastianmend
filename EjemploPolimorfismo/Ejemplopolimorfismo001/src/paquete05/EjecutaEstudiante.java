@@ -11,7 +11,7 @@ public class EjecutaEstudiante {
 
         /*
         Generar un proceso que permita ingresar n número 
-        de docentes. 
+        de estudiantes. 
         El usuario decide de manera prevía cuantos objetos
         de tipo EstudiantePresencial y EstudianteDistancia
         quiere ingresar.
@@ -32,6 +32,30 @@ public class EjecutaEstudiante {
         ArrayList<Estudiante> estudiantes = new ArrayList<>();
         
         // inicio de solución
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
